@@ -1,0 +1,4 @@
+[flake8]
+
+exclude=*alembic/, .venv, .env, env, venv/
+ignore =E501
